@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+We are looking to build an aquarium monitoring solution, allowing consumers to build a system
+comprised of off the shelf components that can centrally manage all aspects of their fish ecosystem.
+At the heart of our control system is a modular design allowing for a consumer to purchase only the
+components they require, while being expandable to allow for growth and new aquariums. The
+system is centrally controlled by a base station with onboard storage and a display for status,
+warnings and user controllable options. The base station will connect to other nodes which will
+control and monitor peripheral devices such as temperature and utilize this information to
+implement fail-safes such as power control. All data and control will be accessible through a web app
+allowing for real time monitoring, historical data, direct system control as well as setting user defined
+limits and alarm values.
+
+This organization contains all code, design documents, and documentation for the first protype of this project. This prototype was completed for our final term capstone project at Camosun College, Victoria BC.
+
 <!--
 
 **Here are some ideas to get you started:**
