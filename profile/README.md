@@ -13,6 +13,17 @@ limits and alarm values.
 
 This organization contains all code, design documents, and documentation for the first protype of this project. This prototype was completed for our final term capstone project at Camosun College, Victoria BC.
 
+All general documentation can be found in the [documentation repo.](https://github.com/ProjectFishWorks/Documentation)
+
+Node controller related files can be found in [Node Controller](https://github.com/ProjectFishWorks/NodeController) and [Node Controller Core](https://github.com/ProjectFishWorks/NodeControllerCore)
+
+Base station files can be found in [Base Station](https://github.com/ProjectFishWorks/BaseStation)
+
+The code for our web app can be found in [Web App](https://github.com/ProjectFishWorks/WebApp)
+
+The files for our devices can be found in:
+* 
+
 <!--
 
 **Here are some ideas to get you started:**
