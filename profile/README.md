@@ -1,4 +1,8 @@
-## Hi there 👋
+# Fish Sense
+## By Project FishWorks
+
+![image](https://github.com/user-attachments/assets/06f7185e-ed52-417b-b288-a601c1be4138)
+
 
 We are looking to build an aquarium monitoring solution, allowing consumers to build a system
 comprised of off the shelf components that can centrally manage all aspects of their fish ecosystem.
@@ -22,7 +26,13 @@ Base station files can be found in [Base Station](https://github.com/ProjectFish
 The code for our web app can be found in [Web App](https://github.com/ProjectFishWorks/WebApp)
 
 The files for our devices can be found in:
-* 
+
+* [AC Outlet Control](https://github.com/ProjectFishWorks/Device-AC_OutletControl) & [AC Outlet Control No Current Sense](https://github.com/ProjectFishWorks/Device-AC_OutletControl_No_Current)
+* [Leak & Level Sensors](https://github.com/ProjectFishWorks/Device-LeakLevelSensor)
+* [pH Sensor](https://github.com/ProjectFishWorks/Device-pHSensorDFRobot)
+* [Lighting Control](https://github.com/ProjectFishWorks/Device-DualColorLEDLighting)
+* [Temperature and Humidity Sensors](https://github.com/ProjectFishWorks/Device-TemperatureHumiditySensor)
+
 
 <!--
 
